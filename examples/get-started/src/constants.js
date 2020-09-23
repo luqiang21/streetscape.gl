@@ -29,10 +29,10 @@ export const XVIZ_CONFIG = {
 };
 
 export const CAR = CarMesh.sedan({
-  origin: [1.08, -0.32, 0],
-  length: 4.3,
-  width: 2.2,
-  height: 1.5,
+  origin: [-1.348649, 0, 0],
+  length: 4.7,
+  width: 2.06,
+  height: 2.05,
   color: [160, 160, 160]
 });
 
